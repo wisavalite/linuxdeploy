@@ -1,6 +1,9 @@
 Changelog (English)
 ===================
 
+1.5.3
+Added an option to change the chroot directory
+
 1.5.2
 Added support Slackware
 Added support Kali Linux 2.0 (sana)
@@ -302,6 +305,9 @@ Updated list packages of base system installation
 
 История изменений (Русский)
 ===========================
+
+1.5.3
+Добавлена опция изменения chroot директории
 
 1.5.2
 Добавлена поддержка Slackware
